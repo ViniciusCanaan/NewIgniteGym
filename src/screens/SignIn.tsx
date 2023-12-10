@@ -38,7 +38,10 @@ export function SignIn() {
                     title='Acessar'
                 />
             </Center>
-
+            <Button
+                    title='Criar conta'
+                    variant="outline"
+                />
         </VStack>
     );
 }
